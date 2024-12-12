@@ -1,0 +1,1 @@
+Please donwload the training, validation and test dataset at https://challenge.isic-archive.com/data/#2018 (Part 3)
